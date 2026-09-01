@@ -1,0 +1,7 @@
+project_id = "gpehwbdnwduxzlomawic"
+
+[functions.analyze-query]
+verify_jwt = false
+
+[functions.generate-followups]
+verify_jwt = false
